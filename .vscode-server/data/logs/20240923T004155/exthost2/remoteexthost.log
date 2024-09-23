@@ -1,0 +1,11 @@
+2024-09-23 00:42:14.938 [info] Extension host with pid 11358 started
+2024-09-23 00:42:15.169 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-23 00:42:15.215 [info] Lock '/home/mezikko/.vscode-server/data/User/workspaceStorage/a0f1961f0ece4a72aae8b00125e0cbe4/vscode.lock': Lock acquired.
+2024-09-23 00:42:15.261 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-23 00:42:15.263 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-23 00:42:15.723 [info] Eager extensions activated
+2024-09-23 00:42:15.724 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-23 00:42:15.724 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-23 00:42:41.344 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-09-23 00:42:41.346 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-23 00:48:31.167 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'

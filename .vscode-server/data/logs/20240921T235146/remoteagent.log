@@ -1,0 +1,25 @@
+2024-09-21 23:51:46.231 [info] 
+
+
+
+
+2024-09-21 23:51:46.251 [info] Extension host agent started.
+2024-09-21 23:51:46.323 [info] [127.0.0.1][cbdec9ea][ManagementConnection] New connection established.
+2024-09-21 23:51:47.084 [info] [127.0.0.1][c25c735f][ExtensionHostConnection] New connection established.
+2024-09-21 23:51:47.122 [info] [127.0.0.1][c25c735f][ExtensionHostConnection] <2837> Launched Extension Host Process.
+2024-09-22 00:01:18.496 [info] [127.0.0.1][cbdec9ea][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-22 00:01:18.552 [info] [127.0.0.1][c25c735f][ExtensionHostConnection] <2837> Extension Host Process exited with code: 0, signal: null.
+2024-09-22 00:01:20.673 [info] [127.0.0.1][4948f40b][ManagementConnection] New connection established.
+2024-09-22 00:01:21.420 [info] [127.0.0.1][39e954e8][ExtensionHostConnection] New connection established.
+2024-09-22 00:01:21.466 [info] [127.0.0.1][39e954e8][ExtensionHostConnection] <7328> Launched Extension Host Process.
+2024-09-22 04:35:05.147 [info] [127.0.0.1][39e954e8][ExtensionHostConnection] The client has reconnected.
+2024-09-22 04:35:05.831 [info] [127.0.0.1][4948f40b][ManagementConnection] The client has reconnected.
+2024-09-22 04:36:30.536 [info] [127.0.0.1][4948f40b][ManagementConnection] The client has reconnected.
+2024-09-22 04:36:31.146 [info] [127.0.0.1][39e954e8][ExtensionHostConnection] The client has reconnected.
+2024-09-22 05:04:44.143 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-22 18:47:40.886 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-22 18:47:47.841 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-22 18:47:57.082 [info] [127.0.0.1][39e954e8][ExtensionHostConnection] The client has reconnected.
+2024-09-22 18:47:57.910 [info] [127.0.0.1][4948f40b][ManagementConnection] The client has reconnected.
+2024-09-22 21:09:49.778 [info] [127.0.0.1][4948f40b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-22 21:09:50.115 [info] [127.0.0.1][39e954e8][ExtensionHostConnection] <7328> Extension Host Process exited with code: 0, signal: null.

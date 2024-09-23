@@ -1,0 +1,22 @@
+2024-09-22 21:10:45.062 [info] Log level: Info
+2024-09-22 21:10:45.062 [info] Validating found git in: "git"
+2024-09-22 21:10:45.062 [info] Using git "2.34.1" from "git"
+2024-09-22 21:10:45.062 [info] > git rev-parse --show-toplevel [1712ms]
+2024-09-22 21:10:45.063 [info] > git rev-parse --path-format=relative --show-toplevel [55ms]
+2024-09-22 21:10:45.173 [info] > git rev-parse --git-dir --git-common-dir [55ms]
+2024-09-22 21:10:45.206 [info] Open repository: /mnt/c/users/lenovo/onedrive/desktop/TERRAFORM/terraform-london-project
+2024-09-22 21:10:45.511 [info] > git rev-parse --show-toplevel [131ms]
+2024-09-22 21:10:45.605 [info] > git config --get commit.template [271ms]
+2024-09-22 21:10:45.800 [info] > git rev-parse --path-format=relative --show-toplevel [201ms]
+2024-09-22 21:10:45.822 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [38ms]
+2024-09-22 21:10:46.104 [info] > git status -z -uall [209ms]
+2024-09-22 21:10:46.104 [info] > git show --textconv :provider.tf [142ms]
+2024-09-22 21:10:46.106 [info] > git check-ignore -v -z --stdin [17ms]
+2024-09-22 21:10:46.109 [info] > git ls-files --stage -- /mnt/c/users/lenovo/onedrive/desktop/TERRAFORM/terraform-london-project/provider.tf [91ms]
+2024-09-22 21:10:46.399 [info] > git cat-file -s bbfb5c42bebd65fafd526437ba5c3fbcba6472d4 [227ms]
+2024-09-22 21:10:46.411 [info] > git config --get commit.template [20ms]
+2024-09-22 21:10:46.411 [info] > git merge-base refs/heads/master refs/remotes/origin/master [146ms]
+2024-09-22 21:10:46.808 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [63ms]
+2024-09-22 21:10:46.809 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [225ms]
+2024-09-22 21:10:46.923 [info] > git diff --name-status -z --diff-filter=ADMR 7e7f0d4dc140fbdafa451e052f6cb9ee48593792...refs/remotes/origin/master [52ms]
+2024-09-22 21:10:46.939 [info] > git status -z -uall [21ms]
